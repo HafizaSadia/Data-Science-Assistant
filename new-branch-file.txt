@@ -1,1 +1,2 @@
-"This is the new text file for the new branch"
+def print_fun():
+	print("This is the new text file for the new branch")
